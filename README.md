@@ -25,6 +25,7 @@ Remember, I want you to strictly correct my grammar mistakes, typos, and factual
 I want you to write exercises in style "Fill the gaps bellow" to me about prepositions.
 I want them in markdown format.
 I want you to explain all of my grammars errors please, with maximum of details.
+I want you to show me the remaining exercises after each attempt to response.
 I want to try resolve the exercises in a prompt, replying the entire sentence.
 I want to retry the errors in next prompt.
 ```
